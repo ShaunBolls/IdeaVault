@@ -1,0 +1,8 @@
+{
+  "name": "ideavault",
+  "version": "1.0.0",
+  "description": "Secure idea sharing and monetization platform",
+  "scripts": {
+    "start": "echo 'Static frontend - no build step'"
+  }
+}

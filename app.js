@@ -1,1 +1,1 @@
-console.log('IdeaVault Loaded');
+console.log('IdeaVault frontend loaded');
